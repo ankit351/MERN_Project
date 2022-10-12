@@ -1,4 +1,12 @@
 # Gaming Projects
+This is gaming Repositer 
+Add here your favroite games code
+
+For Contribution follow the following steps
+> Add game name and its description in read file
+> Add Game Code
+> Wait & Enjoy 
+
 
 1. Tic tac toe
 2. Snake
